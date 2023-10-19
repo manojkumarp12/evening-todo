@@ -1,0 +1,36 @@
+.parent{
+    width:35%;
+    height: 400px;;
+    background-color: rgb(209, 201, 201);
+    margin:20px;
+    position: absolute;
+    top: 500px;
+
+}
+
+.para {
+    text-align: center;
+    padding:10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  
+  .sourceimage1,
+  .sourceimage2,
+  .sourceimage3 , .sourceimage4 {
+    display:inline-block;
+    margin: 10px;
+    margin-left: 40px;
+  }
+  
+  .sourceimage1 img,
+  .sourceimage2 img,
+  .sourceimage3 img , .sourceimage4 img{
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
